@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "short_name": "HI",
+  "name": "hello pwa",
+  "short_name": "hello",
   "lang": "en-US",
   "start_url": "/",
   "icons":[
@@ -29,4 +29,3 @@
   "background_color": "white",
   "theme_color": "white"
 }
-});
